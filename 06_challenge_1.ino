@@ -24,7 +24,7 @@ void loop() {
 
   //set_period(100);
   //set_period(1000);
-  +set_period(10000);
+  set_period(10000);
 
   int d = 0;
   int i = 1;
